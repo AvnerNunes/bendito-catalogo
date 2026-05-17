@@ -5,7 +5,7 @@ import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Categorias from "./components/Categorias"
 import CardPerfume from "./components/CardPerfume"
-import BarraWhatsApp from "./components/BarraWhatsApp"
+import BarraWhatsApp from "./components/BarraWhatsApp.jsx"
 import Footer from "./components/Footer"
 import VoltarTopo from "./components/VoltarTopo"
 
